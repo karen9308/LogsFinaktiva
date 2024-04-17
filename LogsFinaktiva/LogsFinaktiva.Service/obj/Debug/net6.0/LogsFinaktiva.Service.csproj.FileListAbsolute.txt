@@ -1,0 +1,15 @@
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\bin\Debug\net6.0\LogsFinaktiva.Service.deps.json
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\bin\Debug\net6.0\LogsFinaktiva.Service.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\bin\Debug\net6.0\LogsFinaktiva.Service.pdb
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\bin\Debug\net6.0\LogsFinaktiva.Domain.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\bin\Debug\net6.0\LogsFinaktiva.Domain.pdb
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\LogsFinaktiva.Service.csproj.AssemblyReference.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\LogsFinaktiva.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\LogsFinaktiva.Service.AssemblyInfoInputs.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\LogsFinaktiva.Service.AssemblyInfo.cs
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\LogsFinaktiva.Service.csproj.CoreCompileInputs.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\LogsFinaktiva.Service.csproj.CopyComplete
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\LogsFinaktiva.Service.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\refint\LogsFinaktiva.Service.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\LogsFinaktiva.Service.pdb
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Service\obj\Debug\net6.0\ref\LogsFinaktiva.Service.dll

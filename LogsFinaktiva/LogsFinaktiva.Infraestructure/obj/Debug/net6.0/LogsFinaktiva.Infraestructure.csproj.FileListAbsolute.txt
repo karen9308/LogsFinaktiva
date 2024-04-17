@@ -1,0 +1,17 @@
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\bin\Debug\net6.0\LogsFinaktiva.Infraestructure.deps.json
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\bin\Debug\net6.0\LogsFinaktiva.Infraestructure.runtimeconfig.json
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\bin\Debug\net6.0\LogsFinaktiva.Infraestructure.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\bin\Debug\net6.0\LogsFinaktiva.Infraestructure.pdb
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\bin\Debug\net6.0\LogsFinaktiva.Domain.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\bin\Debug\net6.0\LogsFinaktiva.Domain.pdb
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.AssemblyInfo.cs
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.csproj.CopyComplete
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\refint\LogsFinaktiva.Infraestructure.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.pdb
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\LogsFinaktiva.Infraestructure.genruntimeconfig.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Infraestructure\obj\Debug\net6.0\ref\LogsFinaktiva.Infraestructure.dll

@@ -1,0 +1,12 @@
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\bin\Debug\net6.0\LogsFinaktiva.Domain.deps.json
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\bin\Debug\net6.0\LogsFinaktiva.Domain.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\bin\Debug\net6.0\LogsFinaktiva.Domain.pdb
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\LogsFinaktiva.Domain.csproj.AssemblyReference.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\LogsFinaktiva.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\LogsFinaktiva.Domain.AssemblyInfoInputs.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\LogsFinaktiva.Domain.AssemblyInfo.cs
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\LogsFinaktiva.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\LogsFinaktiva.Domain.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\refint\LogsFinaktiva.Domain.dll
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\LogsFinaktiva.Domain.pdb
+C:\Users\Karen\Desktop\Finaktiva\LogsFinaktiva\LogsFinaktiva\LogsFinaktiva.Domain\obj\Debug\net6.0\ref\LogsFinaktiva.Domain.dll

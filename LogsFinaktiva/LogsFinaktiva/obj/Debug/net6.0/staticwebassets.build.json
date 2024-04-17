@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "wNvwogdtgE/Uh2Ef97iOV3EB5sZdwvddcIVqIauLkpo=",
+  "Source": "LogsFinaktiva",
+  "BasePath": "_content/LogsFinaktiva",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Karen\\Desktop\\Finaktiva\\LogsFinaktiva\\LogsFinaktiva\\LogsFinaktiva\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LogsFinaktiva.styles.css",
+      "SourceId": "LogsFinaktiva",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Karen\\Desktop\\Finaktiva\\LogsFinaktiva\\LogsFinaktiva\\LogsFinaktiva\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/LogsFinaktiva",
+      "RelativePath": "LogsFinaktiva.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Karen\\Desktop\\Finaktiva\\LogsFinaktiva\\LogsFinaktiva\\LogsFinaktiva\\obj\\Debug\\net6.0\\scopedcss\\bundle\\LogsFinaktiva.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Karen\\Desktop\\Finaktiva\\LogsFinaktiva\\LogsFinaktiva\\LogsFinaktiva\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LogsFinaktiva.bundle.scp.css",
+      "SourceId": "LogsFinaktiva",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Karen\\Desktop\\Finaktiva\\LogsFinaktiva\\LogsFinaktiva\\LogsFinaktiva\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/LogsFinaktiva",
+      "RelativePath": "LogsFinaktiva.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Karen\\Desktop\\Finaktiva\\LogsFinaktiva\\LogsFinaktiva\\LogsFinaktiva\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LogsFinaktiva.bundle.scp.css"
+    }
+  ]
+}
